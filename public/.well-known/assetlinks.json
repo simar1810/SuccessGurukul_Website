@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.buo",
+      "package_name": "com.wellnessz.successgurukul",
       "sha256_cert_fingerprints": [
-        "42:16:8C:A0:4B:90:DC:00:59:5C:AA:7D:89:AA:0F:0A:6A:8F:02:09:5D:5A:01:33:D6:F1:1E:43:AD:8D:6D:BF"
+        "1C:E3:B7:55:0E:66:A7:79:47:6F:2B:1D:0A:96:43:4F:42:83:BE:15:87:7A:B4:3C:65:D2:9E:61:5B:66:07:8F"
       ]
     }
   }
